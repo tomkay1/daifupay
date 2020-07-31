@@ -50,7 +50,8 @@ require.config({
         'template': '../libs/art-template/dist/template-native',
         'selectpage': '../libs/fastadmin-selectpage/selectpage',
         'citypicker': '../libs/fastadmin-citypicker/dist/js/city-picker.min',
-        'citypicker-data': '../libs/fastadmin-citypicker/dist/js/city-picker.data'
+        'citypicker-data': '../libs/fastadmin-citypicker/dist/js/city-picker.data',
+        'clipboard.min': 'clipboard.min'
     },
     // shim依赖配置
     shim: {
@@ -62,6 +63,10 @@ require.config({
 //                'css!../libs/bootstrap-table/dist/bootstrap-table.min.css'
             ],
             exports: '$.fn.bootstrapTable'
+        },
+        'clipboard': {
+            deps: ['ClipboardJS'],
+            exports: 'jquery'
         },
         'bootstrap-table-lang': {
             deps: ['bootstrap-table'],
@@ -163,3 +168,4 @@ require(['jquery', 'bootstrap'], function ($, undefined) {
         });
     });
 });
+

@@ -1,0 +1,6 @@
+---------------------------------------------------------------
+[ 2020-07-31T15:41:21+08:00 ] 127.0.0.1 GET www.daifu.cn/admin/order/index/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%22%22%3A%22www.daifu.cn%22%7D&op=%7B%22%22%3A%22%3D%22%7D&_=1596181280835
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'www.daifu.cn' ) ORDER BY `id` DESC LIMIT 1' at line 1
+---------------------------------------------------------------
+[ 2020-07-31T15:41:21+08:00 ] 127.0.0.1 GET www.daifu.cn/admin/order/index/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%22%22%3A%22www.daifu.cn%22%7D&op=%7B%22%22%3A%22%3D%22%7D&_=1596181280836
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'www.daifu.cn' ) ORDER BY `id` DESC LIMIT 1' at line 1

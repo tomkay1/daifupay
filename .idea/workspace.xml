@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a93413d1-e146-4143-a6b7-6634c36b5617" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinkphp/library/think/db/Query.php" beforeDir="false" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/Query.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/require-frontend.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/require-frontend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/cache/cb/78ef4a9130f39208ff10858ddd8377.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/cache/cb/78ef4a9130f39208ff10858ddd8377.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets/js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\phpstudy_pro\WWW\daifu\public\assets\js" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -91,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596158328979</updated>
       <workItem from="1596158332313" duration="259000" />
-      <workItem from="1596160373544" duration="1049000" />
+      <workItem from="1596160373544" duration="11666000" />
     </task>
     <servers />
   </component>
