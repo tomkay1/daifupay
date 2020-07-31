@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:79:"E:\phpstudy_pro\WWW\daifu\public/../application/admin\view\dashboard\index.html";i:1588765311;s:68:"E:\phpstudy_pro\WWW\daifu\application\admin\view\layout\default.html";i:1588765311;s:65:"E:\phpstudy_pro\WWW\daifu\application\admin\view\common\meta.html";i:1588765311;s:67:"E:\phpstudy_pro\WWW\daifu\application\admin\view\common\script.html";i:1588765311;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:79:"E:\phpstudy_pro\WWW\daifu\public/../application/admin\view\dashboard\index.html";i:1596160564;s:68:"E:\phpstudy_pro\WWW\daifu\application\admin\view\layout\default.html";i:1588765311;s:65:"E:\phpstudy_pro\WWW\daifu\application\admin\view\common\meta.html";i:1588765311;s:67:"E:\phpstudy_pro\WWW\daifu\application\admin\view\common\script.html";i:1588765311;}*/ ?>
 <!DOCTYPE html>
 <html lang="<?php echo $config['language']; ?>">
     <head>
@@ -327,7 +327,7 @@
                     </div>
                 </div>
 
-                <div class="row" style="margin-top:15px;">
+                <!--<div class="row" style="margin-top:15px;">
 
                     <div class="col-lg-12">
                     </div>
@@ -416,7 +416,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
             </div>
             <div class="tab-pane fade" id="two">
                 <div class="row">
@@ -435,6 +435,7 @@
         createdata: <?php echo json_encode(array_values($createlist)); ?>,
     };
 </script>
+
                             </div>
                         </div>
                     </div>
