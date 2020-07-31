@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a93413d1-e146-4143-a6b7-6634c36b5617" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/dashboard/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/view/dashboard/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/extra/site.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/extra/site.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime/temp/902dd8d1c151ebe3bf2745921fcf8297.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/temp/902dd8d1c151ebe3bf2745921fcf8297.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinkphp/library/think/db/Query.php" beforeDir="false" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/Query.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596158328979</updated>
       <workItem from="1596158332313" duration="259000" />
-      <workItem from="1596160373544" duration="207000" />
+      <workItem from="1596160373544" duration="1049000" />
     </task>
     <servers />
   </component>
